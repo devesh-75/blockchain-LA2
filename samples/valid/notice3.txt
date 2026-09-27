@@ -1,0 +1,4 @@
+Train: 12124
+Station: NGP
+Expected Time: 07:40
+Reason: मुसळधार पावसामुळे उशीर

@@ -1,0 +1,2 @@
+Invalid text notice without any structure
+This is complete garbage input that cannot be parsed.
